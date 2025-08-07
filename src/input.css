@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100..900&display=swap');
+@import "tailwindcss";
+
+@theme{
+    --color-gray-50:hsl(0,0%,98%);
+    --color-gray-100:hsl(0,0%,94%);
+    --color-gray-200:hsl(0,0%,85%);
+    --color-gray-500:hsl(0,0%,63%);
+    --color-gray-800:hsl(0,0%,27%);
+    --font-display: "League Spartan", sans-serif;
+
+}
+
+/* .nav-list li {
+  @apply hover:text-red-500 cursor-pointer transition-colors;
+ */
+/*     li::after {
+    background-color: white;
+    content: "";
+    width: 0;
+    height: 2px;
+    left: 25%;
+    bottom: 0;
+    position: absolute;
+    bottom: 0.5rem;
+  }
+  li:hover::after {
+    width: 50%;
+  } */
+/* } */
+.arrow-parent:hover img {
+  filter: brightness(0) saturate(100%) invert(48%) sepia(0%) saturate(0%) hue-rotate(180deg) brightness(90%) contrast(90%);
+}
