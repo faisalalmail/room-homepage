@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/faisalalmail/room-homepage](https://github.com/faisalalmail/room-homepage)
+- Live Site URL: [https://room-homepage-inky-six.vercel.app/](https://room-homepage-inky-six.vercel.app/)
 
 ## My process
 
@@ -70,13 +70,4 @@ Will use tailwind again, thats possible, yes its useful, but it takes time to ge
 ### Continued development
 
 - I think there is more to tailwindcss like funtions and directives which can elevate the quality of work, will sure learn to use them going forward if I decided to do a future project with tailwindcss.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
-
-## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
